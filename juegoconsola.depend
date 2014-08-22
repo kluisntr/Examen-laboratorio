@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1408749318 source:/home/kluis/Desktop/lll/juegoconsola/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<iostream>
+
+1408550114 source:/home/kluis/Desktop/lll/juegoconsola/Personajes.cpp
+	"Personajes.h"
+
+1408550106 /home/kluis/Desktop/lll/juegoconsola/Personajes.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<iostream>
+
